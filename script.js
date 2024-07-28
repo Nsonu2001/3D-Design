@@ -48,10 +48,10 @@ function locomotive() {
   
   function files(index) {
     var data = `
-       ../docs/image2/male0001.png
-       ../docs/image2/male0002.png
-       ../docs/image2/male0003.png
-        ../docs/image2/male0004.png
+       male0001.png
+       male0002.png
+       male0003.png
+       male0004.png
         ../docs/image2/male0005.png
         ../docs/image2/male0006.png
         ../docs/image2/male0007.png
